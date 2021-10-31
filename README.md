@@ -1,4 +1,4 @@
-###   Olá, eu sou o joão vitor 👋
+###   Olá, eu sou o joão vitor 👻
 
 
 🌱 Estudando Typescript
