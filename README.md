@@ -1,7 +1,7 @@
 ###   Olá, eu sou o joão vitor 👻
 
 
-🌱 Estudando Typescript
+🌱 Estudando JavaScript 
 
 <div align = "center">
    <a href="https://github.com/joaovitor001">
